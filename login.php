@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SchoDy</title>
+    <title>Login</title>
     <link rel="stylesheet" href="./style.css">
 
     <!-- animaje.js -->
@@ -17,9 +17,8 @@
         <?php include './component/navbar.php';?>
     </div>
     
-    <div class="container">
-        <h1 class="animate__animated animate__bounceInDown">SchoDy Hub</h1>
-        <p class="animate__animated animate__fadeIn animate__delay-1s">Cheap And Light Weight E-Learning</p>
+    <div class="login">
+
     </div>
 
 </body>
